@@ -1,6 +1,6 @@
 {
   "name": "@thedipankarroy/contact",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "Contact Info",
   "main": "index.js",
   "bin": {
@@ -10,5 +10,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dipankar Roy <dipankarroy1023@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedipankarroy/contact.git"
+  },
+  "keywords": [
+    "thedipankarroy"
+  ],
+  "bugs": {
+    "url": "https://github.com/thedipankarroy/contact/issues"
+  },
+  "homepage": "https://github.com/thedipankarroy/contact#readme"
 }
