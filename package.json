@@ -1,6 +1,6 @@
 {
   "name": "@thedipankarroy/contact",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Contact Info",
   "main": "index.js",
   "bin": {
