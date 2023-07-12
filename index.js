@@ -1,5 +1,5 @@
 #!/user/bin/env node
-console.log(`Hey, I am Dipankar!
+console.log(`Hey, I am Dipankar Roy!
 
 ✅ Github: https://github.com/thedipankarroy
 ✅ Twitter: https://twitter.com/the_dipankarroy
