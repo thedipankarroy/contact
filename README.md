@@ -1,5 +1,7 @@
 **Use it on browser [Live](https://npm.runkit.com/%40thedipankarroy%2Fcontact)**
 
+### OR
+
 **Install the package** 
 
 ```terminal
