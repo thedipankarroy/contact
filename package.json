@@ -1,0 +1,14 @@
+{
+  "name": "@thedipankarroy/contact",
+  "version": "1.4.2",
+  "description": "Contact Info",
+  "main": "index.js",
+  "bin": {
+    "info": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipankar Roy <dipankarroy1023@gmail.com>",
+  "license": "ISC"
+}
