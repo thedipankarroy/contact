@@ -1,9 +1,37 @@
-### made this package to get to know how packages work
+**Install the package** 
 
-> What I am Doing: Setting up secrets, changing npmrc files and mostly reading the documentaion
+```terminal
+npm i @thedipankarroy/contact
+```
 
+Yes I used scoped package for this one.
 
-## Output of this package
+It will be a quick installation, then **create a `.js` file** with a name you like.
+Let's say `app.js`.
 
-![image](https://github.com/thedipankarroy/contact/assets/78965407/ec645a4b-a473-4f55-81c4-c47d1d4a80e9)
+Then copy paste this line in the file and save it.
 
+```js
+require('@thedipankarroy/contact')
+```
+
+You're done!
+
+Now just open up the terminal and make sure you are in the root of the folder where you installed the package and run
+
+```terminal
+node app
+```
+
+It will print out the contact info like this
+
+```
+Hey, I am Dipankar Roy!
+
+✅ Github: https://github.com/thedipankarroy
+✅ Twitter: https://twitter.com/the_dipankarroy
+✅ Linkedin: https://www.linkedin.com/in/thedipankarroy
+✅ Email: dipankarroy1023@gmail.com
+```
+
+You can also check out the `index.js` file in the `node_module` .
